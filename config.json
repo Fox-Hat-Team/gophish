@@ -4,7 +4,9 @@
     "use_tls": false,
     "cert_path": "",
     "key_path": "",
-    "trusted_origins": []
+   "trusted_origins": [
+    "https://gophish-production-07bf.up.railway.app"
+  ]
   },
   "phish_server": {
     "listen_url": "0.0.0.0:80",
