@@ -5,7 +5,7 @@
     "cert_path": "",
     "key_path": "",
     "trusted_origins": [
-      "https://taaager.com"
+      "taaager.com"
     ]
   },
   "phish_server": {
