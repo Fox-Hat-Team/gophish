@@ -5,7 +5,7 @@
     "cert_path": "",
     "key_path": "",
     "trusted_origins": [
-      "https://gophish-production-07bf.up.railway.app"
+      "https://taaager.com"
     ]
   },
   "phish_server": {
