@@ -9,7 +9,7 @@
     ]
   },
   "phish_server": {
-    "listen_url": "0.0.0.0:80",
+    "listen_url": "taaager.com",
     "use_tls": false,
     "cert_path": "",
     "key_path": ""
